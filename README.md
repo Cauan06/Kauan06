@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Kauan06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kauan06/Kauan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá, sou @ Kauan06
+👀 Estou interessado Em Pentest
+🌱 Atualmente estou aprendendo Python
